@@ -61,7 +61,7 @@ export default function Example() {
                 <span className="sr-only">Your Company</span>
                 <img
                   alt=""
-                  src="https://tailwindcss.com/plus-assets/img/logos/mark.svg?color=indigo&shade=600"
+                  src="https://th.bing.com/th/id/R.fc8e5abda3b0fc09789e9d62c4a80a50?rik=6Tqb4iXF7UUh7w&pid=ImgRaw&r=0"
                   className="h-8 w-auto"
                 />
               </a>
@@ -137,7 +137,7 @@ export default function Example() {
       image={concept.image}
       title={concept.title}
       description={concept.description}
-      details={concept.details}    // ← don’t forget this line
+      details={concept.details}    
     />
 
   ))}
